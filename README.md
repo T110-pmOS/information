@@ -20,7 +20,7 @@ https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_3_Lite_7.0_(samsung-goyawi
 🟩 Wireless and USB network works;
 
 ## Problems
-📛 PXA986 include PM820 audio DAC witch don't have open-source codec for ALSA in user space;
+📛 PXA986 include PM805 (PM820) audio DAC witch don't have open-source codec for ALSA in user space;
 
 📛 HW acceleration doesen't work due to close-source Vivante drivers but can be fixed with Etnaviv if the Linux Kernel is rebase to a supported version;
 
